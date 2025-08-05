@@ -1,5 +1,5 @@
 import styles from "./Home.module.css";
-import List from "../../Components/List/List";
+import List from '../../Components/List/List'
 import Nav from "../../Components/Nav/Nav";
 import Modal from "../../Components/Modal/Modal";
 import GenreCounter from "../../Components/Counter/GenreCounter/GenreCounter";
